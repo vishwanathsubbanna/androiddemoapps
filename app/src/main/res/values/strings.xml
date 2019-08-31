@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Tourguide</string>
+    <string name="projecttitle">Tour Guide</string>
+    <string name="projectdesc">This application will help you to check the sightseeing places before you visit. This will be your pocket Tourguide</string>
+    <string name="txtcitytovisit">City to Visit</string>
+    <string name="sightseeingplaces">Sightseeing Places</string>
+
+    <string-array name="citytovisit">
+        <item name="mys">Mysore</item>
+        <item name="blr">Bangalore</item>
+        <item name="cmg">Chikkamagalur</item>
+        <item name="krp">K R Pet</item>
+        <item name="mad">Madikeri</item>
+    </string-array>
+    
+    <string-array name="mysplaces">
+        <item name="mysplace">Mysore Palace</item>
+        <item name="myshills">Chamundi Hills</item>
+        <item name="myszoo">Mysore Zoo</item>
+        <item name="mysmarket">K R Market</item>
+        <item name="mystemple">Nanjanagud Temple</item>
+    </string-array>
+
+    <string-array name="blrplaces">
+        <item name="blrplace">Bangalore Palace</item>
+        <item name="blrhills">Nandi Hills</item>
+        <item name="blrpark">Lalbagh</item>
+        <item name="blrairport">International Airport</item>
+        <item name="blrtemple">Basavanagudi Temple</item>
+    </string-array>
+
+    <string-array name="cmgplaces">
+        <item name="cmgfalls">Kalhathi Falls</item>
+        <item name="cmgresort">Sarai Resort</item>
+        <item name="cmgtemple">Hornadu Annapoorneshawari Temple</item>
+        <item name="cmghills">Mullaingiri Hills</item>
+        <item name="cmgestate">Coffe Estate</item>
+    </string-array>
+
+    <string-array name="krpplaces">
+        <item name="krptemple1">Melukote Temples</item>
+        <item name="krpjainplaces">Shravanabelagola</item>
+        <item name="krptemple2">Bhoo Varahaswamy Temple</item>
+        <item name="krpfalls">Chunchunkatte Falls</item>
+        <item name="krpriver">Cauvery River Basin</item>
+    </string-array>
+
+    <string-array name="madplaces">
+        <item name="madtemple">Omkareshwara Temple</item>
+        <item name="madfalls">Abbe Falls</item>
+        <item name="madpark">Raja Seat</item>
+        <item name="madresort">Orange County</item>
+        <item name="madhills">Brahmagiri Talacauvery</item>
+    </string-array>
+    
+    
+</resources>
